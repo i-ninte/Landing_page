@@ -1,0 +1,29 @@
+header{
+    background-color: #1F2937;
+    display: flex;
+
+    }
+    body{
+        height: 100vh;
+    }
+    
+    footer{
+    background-color: #1F2937;
+    
+    }
+    .one{
+    
+    display: flex
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .logo{
+    color: white;
+    
+    }
+    .two{ 
+    display: flex;
+    
+    }
